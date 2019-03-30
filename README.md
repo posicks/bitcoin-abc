@@ -1,29 +1,29 @@
-Bitcoin ABC
-===========
+Clashic
+=======
 
-https://bitcoinabc.org
+http://www.clashic.co.uk/
 
-What is Bitcoin?
+What is Clashic?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
+Clashic is an experimental digital currency based on Bitcoin-ABC v0.15.1 and enables
+instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology 
+to operate with no central authority: managing transactions and issuing money are carried
 out collectively by the network.
 
-What is Bitcoin ABC?
+What is Clashic?
 --------------------
 
-Bitcoin ABC is the name of open source software which enables the use of Bitcoin.
+Clashic is the name of open source software which enables the use of Clashic.
 It is designed to facilite a hard fork to increase Bitcoin's block size limit.
 "ABC" stands for "Adjustable Blocksize Cap".
 
-Bitcoin ABC is a fork of the [Bitcoin Core](https://bitcoincore.org) software project.
+Clashic is a fork of the [Bitcoin ABC](https://bitcoinabc.org) v0.15.1 software project.
 
 License
 -------
 
-Bitcoin ABC is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Clashic is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -31,8 +31,8 @@ Development Process
 
 This Github repository contains only source code of releases.
 
-Bitcoin ABC development takes place at https://reviews.bitcoinabc.org/
+Clashic development takes place at https://github.com/posicks/bitcoin-abc
 
 You can clone the active development version from here:
 
-    https://reviews.bitcoinabc.org/source/bitcoin-abc.git
+    https://github.com/posicks/bitcoin-abc.git
